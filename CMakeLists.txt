@@ -60,6 +60,7 @@ add_message_files(
   FILES
     CommandAccomplished.msg
     CommandReceived.msg
+    LatLonOffsets.msg
 )
 
 # add_message_files(
