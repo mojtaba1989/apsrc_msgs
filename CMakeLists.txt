@@ -61,6 +61,7 @@ add_message_files(
     CommandAccomplished.msg
     CommandReceived.msg
     LatLonOffsets.msg
+    EsrValid.msg
 )
 
 # add_message_files(
