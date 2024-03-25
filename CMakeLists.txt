@@ -64,6 +64,13 @@ add_message_files(
     EsrValid.msg
 )
 
+add_message_files(
+  DIRECTORY
+    msg/avp
+  FILES
+    LaedVehicle.msg
+)
+
 # add_message_files(
 #   DIRECTORY
 #     msg/
