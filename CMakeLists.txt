@@ -68,7 +68,7 @@ add_message_files(
   DIRECTORY
     msg/avp
   FILES
-    LaedVehicle.msg
+    LeadVehicle.msg
 )
 
 # add_message_files(
