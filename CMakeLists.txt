@@ -69,6 +69,7 @@ add_message_files(
     msg/avp
   FILES
     LeadVehicle.msg
+    AvpCommand.msg
 )
 
 # add_message_files(
