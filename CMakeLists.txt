@@ -72,6 +72,19 @@ add_message_files(
     AvpCommand.msg
 )
 
+add_message_files(
+  DIRECTORY
+    msg/here
+  FILES
+    ActionArray.msg
+    Action.msg
+    Response.msg
+    Route.msg
+    SpanArray.msg
+    Span.msg
+    TimeLoc.msg  
+)
+
 # add_message_files(
 #   DIRECTORY
 #     msg/

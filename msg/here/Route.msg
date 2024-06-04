@@ -1,0 +1,9 @@
+string          type
+ActionArray     actions
+TimeLoc         departure
+TimeLoc         arrival
+int64           duration
+int64           distance
+int64           baseDuration
+float64[]       waypoints
+SpanArray       spans
