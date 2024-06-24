@@ -70,6 +70,7 @@ add_message_files(
   FILES
     LeadVehicle.msg
     AvpCommand.msg
+    DriverInputCommand.msg
 )
 
 add_message_files(
