@@ -50,6 +50,7 @@ add_message_files(
     Position3D.msg
     SignalGroup.msg
     SignalPhaseAndTiming.msg
+    SPaTnMAP.msg
     VehicleSafetyExtensions.msg
     VehicleSize.msg
 )
