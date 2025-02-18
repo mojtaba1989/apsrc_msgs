@@ -95,7 +95,7 @@ add_message_files(
   DIRECTORY
     msg/cv
   FILES
-    LaneCentring.msg
+    LaneCentering.msg
     TrafficSignDetection.msg
 )
 
