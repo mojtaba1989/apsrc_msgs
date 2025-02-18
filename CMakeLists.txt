@@ -91,6 +91,15 @@ add_message_files(
     TimeLoc.msg  
 )
 
+add_message_files(
+  DIRECTORY
+    msg/cv
+  FILES
+    LaneCentring.msg
+    TrafficSignDetection.msg
+)
+
+
 # add_message_files(
 #   DIRECTORY
 #     msg/
