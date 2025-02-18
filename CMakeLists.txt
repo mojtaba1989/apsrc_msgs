@@ -61,8 +61,12 @@ add_message_files(
   FILES
     CommandAccomplished.msg
     CommandReceived.msg
-    LatLonOffsets.msg
     EsrValid.msg
+    LatLonOffsets.msg
+    PositionArrayCommand.msg
+    PositionCommand.msg
+    VelocityArrayCommand.msg
+    VelocityCommand.msg
 )
 
 add_message_files(
