@@ -95,6 +95,8 @@ add_message_files(
   DIRECTORY
     msg/cv
   FILES
+    ElapsedTime.msg
+    RecInfo.msg
     LaneCentering.msg
     TrafficSignDetection.msg
 )
