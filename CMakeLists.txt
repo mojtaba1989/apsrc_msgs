@@ -102,6 +102,22 @@ add_message_files(
 )
 
 
+add_message_files(
+  DIRECTORY
+    msg/nextcar_technologies
+  FILES
+    ecoCruise.msg
+    ecoDrive.msg
+    ecoMode.msg
+    ecoRoute.msg
+    MassLearn.msg
+    Range.msg
+    ReducedOrderModel.msg
+    RLLCoef.msg
+    RoadLoadLearn.msg
+    VehicleIntelInfo.msg
+)
+
 # add_message_files(
 #   DIRECTORY
 #     msg/
