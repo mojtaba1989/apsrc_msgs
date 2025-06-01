@@ -76,6 +76,7 @@ add_message_files(
     LeadVehicle.msg
     AvpCommand.msg
     DriverInputCommand.msg
+    BlindSpotChecker.msg
 )
 
 add_message_files(
