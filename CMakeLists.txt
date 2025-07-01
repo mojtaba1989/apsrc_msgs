@@ -3,10 +3,7 @@ project(apsrc_msgs)
 
 
 find_package(catkin REQUIRED COMPONENTS
-  autoware_msgs
-  geometry_msgs
   std_msgs
-  sensor_msgs
   message_generation
 )
 
@@ -127,17 +124,11 @@ add_message_files(
 
 generate_messages(
   DEPENDENCIES
-    autoware_msgs
-    geometry_msgs
     std_msgs
-    sensor_msgs
 )
 
 catkin_package(
   CATKIN_DEPENDS
-    autoware_msgs
-    geometry_msgs
     std_msgs
-    sensor_msgs
     message_runtime
 )
