@@ -1,6 +1,6 @@
-bool ecoMode_enabled
+bool eco_mode_enabled
 uint8 mode_in_use
-float32 ecoMode_saving
+float32 eco_mode_saving
 
 uint8 PRODUCTION = 0
 uint8 HYBRYD = 1

@@ -4,6 +4,6 @@ TimeLoc         departure
 TimeLoc         arrival
 int64           duration
 int64           distance
-int64           baseDuration
+int64           base_duration
 float64[]       waypoints
 SpanArray       spans

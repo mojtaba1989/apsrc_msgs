@@ -1,12 +1,12 @@
 std_msgs/Header header
 
-apsrc_msgs/ecoMode ecoMode
-apsrc_msgs/ecoRoute ecoRoute
-apsrc_msgs/ecoDrive ecoDrive
-apsrc_msgs/ecoCruise ecoCruise
+EcoMode eco_mode
+EcoRoute eco_route
+EcoDrive eco_drive
+EcoCruise eco_cruise
 
-apsrc_msgs/Range range
-apsrc_msgs/MassLearn massLearn
-apsrc_msgs/RoadLoadLearn roadLoadLearn
-apsrc_msgs/ReducedOrderModel reducedOrderModel
+Range range
+MassLearn mass_learn
+RoadLoadLearn road_load_learn
+ReducedOrderModel reduced_order_model
 

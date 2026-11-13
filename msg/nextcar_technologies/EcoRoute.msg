@@ -1,4 +1,4 @@
-bool ecoRoute_enabled
+bool eco_route_enabled
 uint8 optimum_route
 
 float32 default_route_time # in minutes

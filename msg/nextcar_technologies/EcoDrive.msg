@@ -1,4 +1,4 @@
-uint8 ecoDrive_status
+uint8 eco_drive_status
 
 uint8 OFF = 0
 uint8 INACTIVE = 1

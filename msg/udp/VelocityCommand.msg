@@ -12,7 +12,7 @@ uint8 UNIT_MPS = 0
 uint8 UNIT_KMPH = 1
 uint8 UNIT_MPH = 2
 
-uint8 smoothingEn
+uint8 smoothing_enable
 uint8 SMOOTHING_DISABLE = 0
 uint8 SMOOTHING_ENABLE = 1
 uint8 SMOOTHING_MANUAL = 2 # Deprecated

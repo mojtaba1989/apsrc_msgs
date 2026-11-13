@@ -13,7 +13,7 @@ uint8 UNIT_M = 0
 uint8 UNIT_CM = 1
 uint8 UNIT_INCH = 2
 
-uint8 smoothingEn
+uint8 smoothing_enable
 uint8 SMOOTHING_DISABLE = 0
 uint8 SMOOTHING_ENABLE = 1
 uint8 SMOOTHING_MANUAL = 2 # Deprecated
